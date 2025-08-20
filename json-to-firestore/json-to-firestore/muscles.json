@@ -1,0 +1,107 @@
+[
+  {
+    "id": "chest",
+    "name": "Chest",
+    "primaryMuscle": "Chest",
+    "secondaryMuscle": ["shoulders", "triceps"],
+    "imageUrl": "https://example.com/chest.jpg"
+  },
+  {
+    "id": "arms",
+    "name": "Arms",
+    "primaryMuscle": "Arms",
+    "secondaryMuscle": ["shoulders", "forearms"],
+    "imageUrl": "https://example.com/arms.jpg"
+  },
+  {
+    "id": "legs",
+    "name": "Legs",
+    "primaryMuscle": "Legs",
+    "secondaryMuscle": ["glutes", "quads", "hamstrings", "calves"],
+    "imageUrl": "https://example.com/legs.jpg"
+  },
+  {
+    "id": "back",
+    "name": "Back",
+    "primaryMuscle": "Back",
+    "secondaryMuscle": ["biceps", "shoulders"],
+    "imageUrl": "https://example.com/back.jpg"
+  },
+  {
+    "id": "abs",
+    "name": "Abs",
+    "primaryMuscle": "Abs",
+    "secondaryMuscle": ["obliques", "lower_back"],
+    "imageUrl": "https://example.com/abs.jpg"
+  },
+  {
+    "id": "shoulders",
+    "name": "Shoulders",
+    "primaryMuscle": "Shoulders",
+    "secondaryMuscle": ["traps", "triceps", "chest"],
+    "imageUrl": "https://example.com/shoulders.jpg"
+  },
+  {
+    "id": "traps",
+    "name": "Traps",
+    "primaryMuscle": "Traps",
+    "secondaryMuscle": ["shoulders", "back"],
+    "imageUrl": "https://example.com/traps.jpg"
+  },
+  {
+    "id": "forearms",
+    "name": "Forearms",
+    "primaryMuscle": "Forearms",
+    "secondaryMuscle": ["biceps", "triceps"],
+    "imageUrl": "https://example.com/forearms.jpg"
+  },
+  {
+    "id": "glutes",
+    "name": "Glutes",
+    "primaryMuscle": "Glutes",
+    "secondaryMuscle": ["legs", "hamstrings"],
+    "imageUrl": "https://example.com/glutes.jpg"
+  },
+  {
+    "id": "quads",
+    "name": "Quads",
+    "primaryMuscle": "Quads",
+    "secondaryMuscle": ["legs", "glutes", "hamstrings"],
+    "imageUrl": "https://example.com/quads.jpg"
+  },
+  {
+    "id": "hamstrings",
+    "name": "Hamstrings",
+    "primaryMuscle": "Hamstrings",
+    "secondaryMuscle": ["legs", "glutes", "quads"],
+    "imageUrl": "https://example.com/hamstrings.jpg"
+  },
+  {
+    "id": "calves",
+    "name": "Calves",
+    "primaryMuscle": "Calves",
+    "secondaryMuscle": ["legs"],
+    "imageUrl": "https://example.com/calves.jpg"
+  },
+  {
+    "id": "biceps",
+    "name": "Biceps",
+    "primaryMuscle": "Biceps",
+    "secondaryMuscle": ["forearms", "shoulders"],
+    "imageUrl": "https://example.com/biceps.jpg"
+  },
+  {
+    "id": "triceps",
+    "name": "Triceps",
+    "primaryMuscle": "Triceps",
+    "secondaryMuscle": ["shoulders", "chest"],
+    "imageUrl": "https://example.com/triceps.jpg"
+  },
+  {
+    "id": "obliques",
+    "name": "Obliques",
+    "primaryMuscle": "Obliques",
+    "secondaryMuscle": ["abs", "lower_back"],
+    "imageUrl": "https://example.com/obliques.jpg"
+  }
+]

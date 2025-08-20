@@ -1,0 +1,252 @@
+[
+  {
+    "id": "squat",
+    "name": "Squat",
+    "met": 5.5,
+    "primaryMuscle": "legs",
+    "secondaryMuscle": ["glutes", "hamstrings"],
+    "imageUrl": "https://example.com/squat.jpg",
+    "type": "strength",
+    "requiresWeight": true
+  },
+  {
+    "id": "bench_press",
+    "name": "Bench Press",
+    "met": 4.5,
+    "primaryMuscle": "chest",
+    "secondaryMuscle": ["shoulders", "triceps"],
+    "imageUrl": "https://example.com/bench_press.jpg",
+    "type": "strength",
+    "requiresWeight": true
+  },
+  {
+    "id": "deadlift",
+    "name": "Deadlift",
+    "met": 6.0,
+    "primaryMuscle": "back",
+    "secondaryMuscle": ["glutes", "hamstrings"],
+    "imageUrl": "https://example.com/deadlift.jpg",
+    "type": "strength",
+    "requiresWeight": true
+  },
+  {
+    "id": "pull_ups",
+    "name": "Pull-Ups",
+    "met": 5.0,
+    "primaryMuscle": "back",
+    "secondaryMuscle": ["biceps", "shoulders"],
+    "imageUrl": "https://example.com/pull_ups.jpg",
+    "type": "strength",
+    "requiresWeight": false
+  },
+  {
+    "id": "plank",
+    "name": "Plank",
+    "met": 3.0,
+    "primaryMuscle": "abs",
+    "secondaryMuscle": ["lower_back"],
+    "imageUrl": "https://example.com/plank.jpg",
+    "type": "strength",
+    "requiresWeight": false
+  },
+  {
+    "id": "bicep_curls",
+    "name": "Bicep Curls",
+    "met": 3.5,
+    "primaryMuscle": "biceps",
+    "secondaryMuscle": ["forearms"],
+    "imageUrl": "https://example.com/bicep_curls.jpg",
+    "type": "strength",
+    "requiresWeight": true
+  },
+  {
+    "id": "tricep_dips",
+    "name": "Tricep Dips",
+    "met": 4.0,
+    "primaryMuscle": "triceps",
+    "secondaryMuscle": ["shoulders", "chest"],
+    "imageUrl": "https://example.com/tricep_dips.jpg",
+    "type": "strength",
+    "requiresWeight": false
+  },
+  {
+    "id": "lunges",
+    "name": "Lunges",
+    "met": 5.0,
+    "primaryMuscle": "legs",
+    "secondaryMuscle": ["glutes", "hamstrings"],
+    "imageUrl": "https://example.com/lunges.jpg",
+    "type": "strength",
+    "requiresWeight": true
+  },
+  {
+    "id": "shoulder_press",
+    "name": "Shoulder Press",
+    "met": 4.5,
+    "primaryMuscle": "shoulders",
+    "secondaryMuscle": ["triceps"],
+    "imageUrl": "https://example.com/shoulder_press.jpg",
+    "type": "strength",
+    "requiresWeight": true
+  },
+  {
+    "id": "leg_press",
+    "name": "Leg Press",
+    "met": 4.0,
+    "primaryMuscle": "legs",
+    "secondaryMuscle": ["glutes", "hamstrings"],
+    "imageUrl": "https://example.com/leg_press.jpg",
+    "type": "strength",
+    "requiresWeight": true
+  },
+  {
+    "id": "calf_raises",
+    "name": "Calf Raises",
+    "met": 3.0,
+    "primaryMuscle": "calves",
+    "secondaryMuscle": ["legs"],
+    "imageUrl": "https://example.com/calf_raises.jpg",
+    "type": "strength",
+    "requiresWeight": true
+  },
+  {
+    "id": "running",
+    "name": "Running",
+    "met": 8.0,
+    "primaryMuscle": "legs",
+    "secondaryMuscle": [],
+    "imageUrl": "https://example.com/running.jpg",
+    "type": "cardio",
+    "requiresWeight": false
+  },
+  {
+    "id": "jump_rope",
+    "name": "Jump Rope",
+    "met": 10.0,
+    "primaryMuscle": "legs",
+    "secondaryMuscle": [],
+    "imageUrl": "https://example.com/jump_rope.jpg",
+    "type": "cardio",
+    "requiresWeight": false
+  },
+  {
+    "id": "burpees",
+    "name": "Burpees",
+    "met": 10.0,
+    "primaryMuscle": "full_body",
+    "secondaryMuscle": [],
+    "imageUrl": "https://example.com/burpees.jpg",
+    "type": "cardio",
+    "requiresWeight": false
+  },
+  {
+    "id": "mountain_climbers",
+    "name": "Mountain Climbers",
+    "met": 8.0,
+    "primaryMuscle": "abs",
+    "secondaryMuscle": ["legs"],
+    "imageUrl": "https://example.com/mountain_climbers.jpg",
+    "type": "cardio",
+    "requiresWeight": false
+  },
+  {
+    "id": "high_knees",
+    "name": "High Knees",
+    "met": 7.0,
+    "primaryMuscle": "legs",
+    "secondaryMuscle": [],
+    "imageUrl": "https://example.com/high_knees.jpg",
+    "type": "cardio",
+    "requiresWeight": false
+  },
+  {
+    "id": "push_ups",
+    "name": "Push-Ups",
+    "met": 4.0,
+    "primaryMuscle": "chest",
+    "secondaryMuscle": ["triceps", "shoulders"],
+    "imageUrl": "https://example.com/push_ups.jpg",
+    "type": "strength",
+    "requiresWeight": false
+  },
+  {
+    "id": "sit_ups",
+    "name": "Sit-Ups",
+    "met": 3.5,
+    "primaryMuscle": "abs",
+    "secondaryMuscle": ["hip_flexors"],
+    "imageUrl": "https://example.com/sit_ups.jpg",
+    "type": "strength",
+    "requiresWeight": false
+  },
+  {
+    "id": "leg_curls",
+    "name": "Leg Curls",
+    "met": 3.5,
+    "primaryMuscle": "hamstrings",
+    "secondaryMuscle": ["calves"],
+    "imageUrl": "https://example.com/leg_curls.jpg",
+    "type": "strength",
+    "requiresWeight": true
+  },
+  {
+    "id": "lat_pulldown",
+    "name": "Lat Pulldown",
+    "met": 4.0,
+    "primaryMuscle": "back",
+    "secondaryMuscle": ["biceps", "shoulders"],
+    "imageUrl": "https://example.com/lat_pulldown.jpg",
+    "type": "strength",
+    "requiresWeight": true
+  },
+  {
+    "id": "dumbbell_flyes",
+    "name": "Dumbbell Flyes",
+    "met": 3.5,
+    "primaryMuscle": "chest",
+    "secondaryMuscle": ["shoulders"],
+    "imageUrl": "https://example.com/dumbbell_flyes.jpg",
+    "type": "strength",
+    "requiresWeight": true
+  },
+  {
+    "id": "tricep_extensions",
+    "name": "Tricep Extensions",
+    "met": 3.5,
+    "primaryMuscle": "triceps",
+    "secondaryMuscle": ["shoulders"],
+    "imageUrl": "https://example.com/tricep_extensions.jpg",
+    "type": "strength",
+    "requiresWeight": true
+  },
+  {
+    "id": "bent_over_rows",
+    "name": "Bent Over Rows",
+    "met": 5.0,
+    "primaryMuscle": "back",
+    "secondaryMuscle": ["biceps", "shoulders"],
+    "imageUrl": "https://example.com/bent_over_rows.jpg",
+    "type": "strength",
+    "requiresWeight": true
+  },
+  {
+    "id": "leg_extensions",
+    "name": "Leg Extensions",
+    "met": 3.5,
+    "primaryMuscle": "quads",
+    "secondaryMuscle": ["legs"],
+    "imageUrl": "https://example.com/leg_extensions.jpg",
+    "type": "strength",
+    "requiresWeight": true
+  },
+  {
+    "id": "chest_press",
+    "name": "Chest Press",
+    "met": 4.0,
+    "primaryMuscle": "chest",
+    "secondaryMuscle": ["shoulders", "triceps"],
+    "imageUrl": "https://example.com/chest_press.jpg",
+    "type": "strength",
+    "requiresWeight": true
+  }
+]

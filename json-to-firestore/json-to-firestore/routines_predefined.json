@@ -1,0 +1,61 @@
+[
+  {
+    "name": "Full Body Workout",
+    "exercises": ["squat", "bench_press", "deadlift", "pull_ups", "plank"],
+    "goal": "Build overall strength and endurance"
+  },
+  {
+    "name": "Upper Body Strength",
+    "exercises": [
+      "bench_press",
+      "pull_ups",
+      "shoulder_press",
+      "bicep_curls",
+      "tricep_dips"
+    ],
+    "goal": "Increase upper body strength"
+  },
+  {
+    "name": "Lower Body Strength",
+    "exercises": ["squat", "lunges", "deadlift", "leg_press", "calf_raises"],
+    "goal": "Increase lower body strength"
+  },
+  {
+    "name": "Cardio Blast",
+    "exercises": [
+      "running",
+      "jump_rope",
+      "burpees",
+      "mountain_climbers",
+      "high_knees"
+    ],
+    "goal": "Improve cardiovascular endurance"
+  },
+  {
+    "name": "Core Strength",
+    "exercises": [
+      "plank",
+      "sit_ups",
+      "mountain_climbers",
+      "leg_raises",
+      "russian_twists"
+    ],
+    "goal": "Strengthen core muscles"
+  },
+  {
+    "name": "Leg Day",
+    "exercises": ["squat", "leg_press", "lunges", "calf_raises", "leg_curls"],
+    "goal": "Build leg muscle strength"
+  },
+  {
+    "name": "Arm Day",
+    "exercises": [
+      "bicep_curls",
+      "tricep_extensions",
+      "hammer_curls",
+      "tricep_dips",
+      "wrist_curls"
+    ],
+    "goal": "Increase arm muscle strength"
+  }
+]

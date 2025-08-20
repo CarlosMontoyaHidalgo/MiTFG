@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Dumbbells",
+    "description": "A pair of handheld weights used for strength training.",
+    "imageUrl": "https://example.com/dumbbells.jpg"
+  },
+  {
+    "name": "Barbells",
+    "description": "A long bar with weights attached at each end, used for weightlifting.",
+    "imageUrl": "https://example.com/barbells.jpg"
+  },
+  {
+    "name": "Cables",
+    "description": "A system of pulleys and cables used for resistance training.",
+    "imageUrl": "https://example.com/cables.jpg"
+  },
+  {
+    "name": "Machines",
+    "description": "Various gym machines designed for specific exercises and muscle groups.",
+    "imageUrl": "https://example.com/machines.jpg"
+  }
+]
