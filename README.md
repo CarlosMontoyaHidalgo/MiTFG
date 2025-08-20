@@ -183,10 +183,6 @@ Se han proporcionado archivos `.example` como plantillas para cada configuració
 
 Este proyecto está bajo la Licencia MIT. Ver `LICENSE` para más detalles.
 
-## 👥 Autores
-
-- **Tu Nombre** - _Trabajo inicial_ - [TuGitHub](https://github.com/tuusuario)
-
 ## 🙏 Agradecimientos
 
 - Firebase por el backend
